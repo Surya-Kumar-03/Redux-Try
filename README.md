@@ -1,1 +1,1 @@
-Trying out Redux State Management!
+Trying out Redux and State Management!
